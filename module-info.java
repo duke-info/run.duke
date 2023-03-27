@@ -1,1 +1,3 @@
-module run.duke {}
+module run.duke {
+  uses java.util.spi.ToolProvider;
+}
